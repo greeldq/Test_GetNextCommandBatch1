@@ -1,0 +1,20 @@
+C:\Users\Greg\AppData\Local\Temporary Projects\Test_GetNextCommandBatch\bin\Debug\Test_GetNextCommandBatch.exe.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Test_GetNextCommandBatch.exe.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Test_GetNextCommandBatch.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Test_GetNextCommandBatch.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Test_GetNextCommandBatch.xml
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.Data.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.Library.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.LoggerHost.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.Data.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.Library.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Marathon.LoggerHost.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.vbprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.Form1.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.Resources.resources
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.xml
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\Test\Test_GetNextCommandBatch\Test_GetNextCommandBatch\obj\Debug\Test_GetNextCommandBatch.pdb
